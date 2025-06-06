@@ -36,7 +36,7 @@ Welcome to my corner of GitHub! I'm currently in my second year at the Universit
 | **To-Do List App** | Simple task manager for daily productivity | HTML, CSS, JavaScript | [View](#) |
 | **Pomodoro Timer** | A timer for productivity sessions and breaks | HTML, CSS, JavaScript | [View](#) |
 | **Car Rental System** | Console-based car rental management | C++ | [View](#) |
-| **School Portfolio Website** | Portfolio project showcasing student info and projects | HTML, CSS, JS | [View](#) |
+| **University Portal** | responsive web application designed to streamline academic management for student | HTML, CSS, JS | [View](https://github.com/Masebola/-University-portal) |
 
 ---
 

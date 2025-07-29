@@ -80,9 +80,6 @@ Welcome to my corner of GitHub! I'm currently in my second year at the Universit
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masebola&show_icons=true&locale=en" alt="masebola" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masebola&" alt="masebola" />
@@ -96,15 +93,3 @@ Welcome to my corner of GitHub! I'm currently in my second year at the Universit
 - Build a **personal portfolio website** that reflects my skills.
 - Intern at a company where I can grow as a software developer.
 - Master **data structures and algorithms**.
-
----
-
-### 📬 Let's Connect
-
-*Coming soon — feel free to drop a message via GitHub!*
-
----
-
-> *"Code is the closest thing we have to magic. I'm here to master the spellbook."*
-
----

@@ -91,5 +91,5 @@ Welcome to my corner of GitHub! I'm currently in my second year at the Universit
 
 - Contribute to **open-source**.
 - Build a **personal portfolio website** that reflects my skills.
-- Intern at a company where I can grow as a software developer.
+- Intern at a company where I can grow as a Full stak developer.
 - Master **data structures and algorithms**.
